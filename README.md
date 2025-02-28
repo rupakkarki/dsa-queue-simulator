@@ -1,5 +1,5 @@
 This is a great traffic junction simulator project! The queue-based traffic management system is an effective way to demonstrate key concepts of data structures, particularly in simulating real-world traffic conditions.
-![Traffic Junction Simulator Demo](rupak raj karki.gif)
+![traffic junction simulator demo](rupak raj karki.gif)
 Here’s a brief breakdown of the key points:
 
 🚦 Traffic Management Features
