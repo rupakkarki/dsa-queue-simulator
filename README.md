@@ -31,5 +31,5 @@ Allow flexibility for turning lanes
 Pedestrian Crossing Simulation: Adding crosswalks with traffic lights could provide additional complexity and realism.
 Vehicle Type Variations: Vehicles of different sizes (like trucks vs cars) might have different handling times at intersections.
 Traffic Flow Optimization: Implementing algorithms that optimize traffic flow based on real-time data (like adjusting light timings dynamically).
-This project is a solid implementation of a queue-based simulation that tackles a practical problem with relevant data structures and algorithms. It's a good representation of how software can mimic real-world scenarios!
-![traffic simulator](rupak raj karki.gif)
+This project is a solid implementation of a queue-based simulation that tackles a practical problem with relevant data structures and algorithms. It's a good representation of how software can mimic real-world scenarios
+![Traffic Junction Simulator Demo](rupak raj karki.gif)
