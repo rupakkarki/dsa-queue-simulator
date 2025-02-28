@@ -1,5 +1,5 @@
 This is a great traffic junction simulator project! The queue-based traffic management system is an effective way to demonstrate key concepts of data structures, particularly in simulating real-world traffic conditions.
-
+![Traffic Junction Simulator Demo](rupak raj karki.gif)
 Here’s a brief breakdown of the key points:
 
 🚦 Traffic Management Features
@@ -32,4 +32,4 @@ Pedestrian Crossing Simulation: Adding crosswalks with traffic lights could prov
 Vehicle Type Variations: Vehicles of different sizes (like trucks vs cars) might have different handling times at intersections.
 Traffic Flow Optimization: Implementing algorithms that optimize traffic flow based on real-time data (like adjusting light timings dynamically).
 This project is a solid implementation of a queue-based simulation that tackles a practical problem with relevant data structures and algorithms. It's a good representation of how software can mimic real-world scenarios
-![Traffic Junction Simulator Demo](rupak raj karki.gif)
+
